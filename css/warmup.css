@@ -1,7 +1,16 @@
 body {
   background-color: #f7f7f7;
+  font-family: Helvetica;
 }
 
+
+dt {
+  font-weight: 700;
+}
+
+ivory {
+  background-color: ivory;
+}
 /* 
 Add CSS rules so that:
 (a) all the text on the page has a font-family of 'Helvetica'.
@@ -9,3 +18,4 @@ Add CSS rules so that:
 (a) Your favorite item from the list has a background-color of ivory 
     (highlighting that you like it!). You may need to modify the HTML for this.
 */
+
